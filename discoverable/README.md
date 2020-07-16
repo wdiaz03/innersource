@@ -1,6 +1,6 @@
 ## How to craft discoverable repos
 
-For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. 
+For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. ..
 
 ### Repository purpose
 - Make sure you solve a real problem. Repositories that have useful, helpful information will always rise to the top. 
